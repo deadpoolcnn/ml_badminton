@@ -189,3 +189,7 @@ X_train_aug, y_train_aug = data_augumentation(
 ## 📧 联系方式
 
 如有问题或建议，请通过 Issue 或 Pull Request 联系我们。
+
+---
+
+**语言**: **中文** | [English](README.en.md)
